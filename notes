@@ -1,0 +1,13 @@
+
+
+Page layout
+
+Queue
+  - queue (backend)
+  - Player
+
+Player
+  - Streamer
+    - queue (backend)
+    - device id
+  - Devices
